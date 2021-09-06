@@ -1,4 +1,4 @@
-#Mender
+Mender
 
 Videogame project for the subject Videogames Production at La Salle, University Ramon Llull.
 
