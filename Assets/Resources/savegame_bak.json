@@ -1,0 +1,5 @@
+{"curr_level":1,"coins":0.0,"lang":"es_ES","total_levels":4,
+  "skins":[
+    {"name":"Mender","price":0,"image":"Mender","bought":true,"chosen":true},
+    {"name":"Iron Mender","price":50,"image":"Iron_Mender","bought":false,"chosen":false},
+    {"name":"Purple Mender","price":100,"image":"Purple_Mender","bought":false,"chosen":false}]}
